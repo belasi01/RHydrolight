@@ -1,7 +1,7 @@
 Package: RHydrolight
 Type: Package
 Title: R routines to read and analysed Hydrolight outputs
-Version: 0.1.0
+Version: 0.1.1
 Date: 2018-02-23
 Author: Simon Bélanger
 Maintainer: Simon Bélanger <simon_belanger@uqar.ca>
@@ -10,5 +10,5 @@ License:
 Encoding: UTF-8
 LazyData: TRUE
 RoxygenNote: 6.0.1
-Depends: readxl
+Depends: readxl, tools
 Roxygen: list(markdown = TRUE)
