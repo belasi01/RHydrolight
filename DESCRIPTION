@@ -1,8 +1,8 @@
 Package: RHydrolight
 Type: Package
 Title: R routines to read and analysed Hydrolight outputs
-Version: 0.1.1
-Date: 2018-02-23
+Version: 0.1.3
+Date: 2018-03-15
 Author: Simon Bélanger
 Maintainer: Simon Bélanger <simon_belanger@uqar.ca>
 Description:  R routines to read and analysed Hydrolight outputs
